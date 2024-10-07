@@ -14,5 +14,6 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("просто текст 2");
+        System.out.println("просто текст 3");
     }
 }
