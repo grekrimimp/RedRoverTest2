@@ -16,5 +16,7 @@ public class Main {
         System.out.println("просто текст 2");
         System.out.println("просто текст 3");
         System.out.println("просто текст 4");
+        System.out.println("просто текст 4");
+        System.out.println("просто текст 4");
     }
 }
