@@ -18,6 +18,6 @@ public class Main {
         System.out.println("просто текст 4777");
         System.out.println("просто текст 4");
         System.out.println("просто текст 4");
-        System.out.println("просто текст 453333333 seven--то-аааа-jjjjjj--");
+        System.out.println("просто текст 453333333 seven--то-аааа-jjjjpppppppjj--");
     }
 }
